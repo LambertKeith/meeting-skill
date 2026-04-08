@@ -1,6 +1,6 @@
 <div align="center">
 
-# Meeting Skill
+# 开会 Skill
 
 **多Agent协作会议框架**
 
@@ -187,7 +187,7 @@ MIT License
 
 ## 关于作者
 
-由 Claude Code 与 Happy 协作开发。
+由Lambert Keith 使用 Claude Code 与 Happy 协作开发。
 
 生成方式：基于会议方法论文档，适配Agent协作模式。
 
